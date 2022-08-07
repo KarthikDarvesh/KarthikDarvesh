@@ -9,7 +9,7 @@
 </p>
 <hr>
 <h5><p align="left">
-🏫 I’m currently working with ...
+👨‍💻 I’m currently working with ...
 </p></h5>
 <p align="left">
 AI/ML
