@@ -4,7 +4,7 @@
 <p align="center">
 <img src="https://gpvc.arturio.dev/KarthikDarvesh" style=align="center">
 <br><br>
-<a href="linkedin.com/in/karthik-darvesh-4636a4214"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/karthik-darvesh-4636a4214"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="karthikdarevsh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 <hr>
