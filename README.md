@@ -30,7 +30,7 @@ AI/ML
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <hr>
-<p align="left">
+<h5><p align="left">
 💬 What i know ...
 <br><br>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -42,16 +42,16 @@ AI/ML
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=black">&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+</p></h5>
 <hr>
-<p align="left">
+<h5><p align="left">
 🔭 Area of a interest ...
 <br><br>
 <img src="https://img.shields.io/badge/Astronomy-B80CEF?style=for-the-badge&logo=star&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Stargazing-00599C?style=for-the-badge&logo=&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+</p></h5>
 <hr>
-<p align="left">
+<h5><p align="left">
 💻 Platform i familiar with ...
 <br><br>
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -60,7 +60,7 @@ AI/ML
 <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+</p></h5>
 <hr>
 
 
