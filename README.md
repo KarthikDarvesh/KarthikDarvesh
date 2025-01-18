@@ -33,6 +33,7 @@ AI/ML and Gen AI
 <p align="left">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/HuggingFace-e8ff00?style=for-the-badge&logo=HuggingFace&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <hr>
 <h5><p align="left">
