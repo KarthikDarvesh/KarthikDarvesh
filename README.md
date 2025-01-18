@@ -14,10 +14,10 @@
 <p align="left">
 AI/ML and Gen AI
 <br><br>
-<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=RAG&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/LLM-FF6F00?style=for-the-badge&logo=Large Language Model&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Retrieval-Augmented-Generation (RAG)-000000?style=for-the-badge&logo=Retrieval-Augmented-Generation (RAG)&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Large language models (LLMs)-00ff08?style=for-the-badge&logo=Large language models (LLMs)&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Transformer-FF6F00?style=for-the-badge&logo=Transformer&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=Transformer&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/NLP-00ffb9?style=for-the-badge&logo=Transformer&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MachineLearning-EC3913?style=for-the-badge&logo=machinelearning&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;
