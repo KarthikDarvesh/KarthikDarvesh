@@ -19,7 +19,8 @@ AI/ML and Gen AI
 <img src="https://img.shields.io/badge/Transformer-00fffb?style=for-the-badge&logo=Transformer&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/NLP-0004ff?style=for-the-badge&logo=Transformer&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/MachineLearning-EC3913?style=for-the-badge&logo=machinelearning&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Pytorch-9e00ff?style=for-the-badge&logo=tensorflow&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Machine Learning Angorithm-EC3913?style=for-the-badge&logo=Machine Learning Angorithm&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;
