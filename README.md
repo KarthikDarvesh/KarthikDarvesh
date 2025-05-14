@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Karthik Darvesh 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/KarthikDarvesh" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=KarthikDarvesh&style=for-the-badge" alt="Profile Views" />
   <br><br>
   <a href="https://www.linkedin.com/in/karthik-darvesh-4636a4214">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
