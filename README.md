@@ -62,7 +62,12 @@
     <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/SCIPY-8CAAE6?style=for-the-badge&logo=scipy&logoColor=black" />
     <img src="https://img.shields.io/badge/SCIKIT LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  </p>
+
+- 🧠 NLP & LANGUAGE PROCESSING LIBRARIES  
+  <p>
     <img src="https://img.shields.io/badge/SPACY-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
+    <img src="https://img.shields.io/badge/NLTK-76B947?style=for-the-badge&logo=nltk&logoColor=white" />
   </p>
 
 - 🤖 GENAI & LLM FRAMEWORKS  
@@ -73,7 +78,6 @@
     <img src="https://img.shields.io/badge/OPENAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
     <img src="https://img.shields.io/badge/PINECONE-1E90FF?style=for-the-badge" />
   </p>
-
 
 ---
 
