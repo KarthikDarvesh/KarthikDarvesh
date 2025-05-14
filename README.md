@@ -26,7 +26,19 @@
 
 ---
 
-### 🔧 AI TOOLS & PLATFORMS I USE IN PROJECTS
+### 🔧 AI TOOLS & PLATFORMS
+
+<p>
+  <img src="https://img.shields.io/badge/PYCHARM-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/ANDROID STUDIO-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/GOOGLE COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
+  <img src="https://img.shields.io/badge/NOTEPAD++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black" />
+  <img src="https://img.shields.io/badge/FIREBASE-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+---
+
+### 📚 AI LIBRARIES & FRAMEWORKS
 
 <p>
   <img src="https://img.shields.io/badge/LANGCHAIN-000000?style=for-the-badge" />
@@ -34,12 +46,6 @@
   <img src="https://img.shields.io/badge/HUGGING FACE-FCC624?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/PINECONE-1E90FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RAG (RETRIEVAL AUGMENTED GENERATION)-333333?style=for-the-badge" />
-
-  <img src="https://img.shields.io/badge/PYCHARM-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/ANDROID STUDIO-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/GOOGLE COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
-  <img src="https://img.shields.io/badge/NOTEPAD++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black" />
-  <img src="https://img.shields.io/badge/FIREBASE-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 ---
