@@ -52,14 +52,25 @@
   </p>
 ---
 
-### 📚 AI LIBRARIES & FRAMEWORKS
+### 📚 LIBRARIES & FRAMEWORKS
 
-<p>
-  <img src="https://img.shields.io/badge/HUGGING FACE-FCC624?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LANGCHAIN-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OPENAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/PINECONE-1E90FF?style=for-the-badge" />
-</p>
+- 🧮 CORE ML & DATA LIBRARIES  
+  <p>
+    <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/SCIPY-8CAAE6?style=for-the-badge&logo=scipy&logoColor=black" />
+    <img src="https://img.shields.io/badge/SCIKIT LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  </p>
+
+- 🤖 GENAI & LLM FRAMEWORKS  
+  <p>
+    <img src="https://img.shields.io/badge/HUGGING FACE-FCC624?style=for-the-badge&logo=huggingface&logoColor=black" />
+    <img src="https://img.shields.io/badge/LANGCHAIN-000000?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/OPENAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/PINECONE-1E90FF?style=for-the-badge" />
+  </p>
 
 ---
 
@@ -73,19 +84,6 @@
   <img src="https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=sqlite&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
----
-
-### 📚 LIBRARIES & FRAMEWORKS
-
-<p>
-  <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/SCIPY-8CAAE6?style=for-the-badge&logo=scipy&logoColor=black" />
-  <img src="https://img.shields.io/badge/SCIKIT LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
 ---
