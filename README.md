@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Karthik Darvesh 👨‍💻</h1>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=KarthikDarvesh&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=KarthikDarvesh&style=for-the-badge" alt="Profile Views" />
   <br><br>
   <a href="https://www.linkedin.com/in/karthik-darvesh-4636a4214">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -16,9 +16,10 @@
 
 ### 👨‍💻 Currently Working On
 
-- AI/ML & Generative AI Projects
+- AI/ML & GenAI applications
 - Retrieval Augmented Generation (RAG)
-- LLM-based Applications (LangChain, OpenAI, Pinecone)
+- LLM-based pipelines using LangChain, OpenAI, Pinecone
+- NLP and Transformer-based systems
 
 ---
 
@@ -43,7 +44,7 @@
 
 ---
 
-### 🛠️ Skills & Languages
+### 💻 Programming Languages & Tools
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -57,7 +58,20 @@
 
 ---
 
-### 💡 Areas of Interest
+### 📚 Libraries & Frameworks
+
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=black" />
+  <img src="https://img.shields.io/badge/scikit learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+---
+
+### 🔭 Areas of Interest
 
 <p>
   <img src="https://img.shields.io/badge/Astronomy-B80CEF?style=for-the-badge" />
