@@ -81,6 +81,20 @@
 
 ---
 
+### 🤖 AI ASSISTANTS I USE
+
+<p>
+  <img src="https://img.shields.io/badge/CHATGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLAUDE-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/GEMINI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/GROK-1A1A1A?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/PERPLEXITY-4C00FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHIND-006AFF?style=for-the-badge&logoColor=white" />
+</p>
+
+
+---
+
 ### 💻 PROGRAMMING LANGUAGES & TOOLS
 
 <p>
