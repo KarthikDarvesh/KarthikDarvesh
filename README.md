@@ -1,56 +1,54 @@
-<h1 align="center">Hi there 👋 I'm Karthik Darvesh 👨‍💻</h1>
+<h1 align="center">HI THERE 👋 I'M KARTHIK DARVESH 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KarthikDarvesh&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=KarthikDarvesh&style=for-the-badge" alt="PROFILE VIEWS" />
   <br><br>
   <a href="https://www.linkedin.com/in/karthik-darvesh-4636a4214">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:karthikdarevsh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 Currently Working On
+### 👨‍💻 CURRENTLY WORKING ON
 
-- AI/ML & GenAI applications
-- Retrieval Augmented Generation (RAG)
-- LLM-based pipelines using LangChain, OpenAI, Pinecone
-- NLP and Transformer-based systems
+- AI/ML & GENERATIVE AI APPLICATIONS  
+- RETRIEVAL AUGMENTED GENERATION (RAG)  
+- LLM-BASED PIPELINES USING LANGCHAIN, OPENAI, PINECONE  
+- NLP AND TRANSFORMER-BASED SYSTEMS
 
 ---
 
-### 🔧 AI Tools & Platforms I Use in Projects
+### 🔧 AI TOOLS & PLATFORMS I USE IN PROJECTS
 
 <p>
-  <!-- GenAI Tools -->
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging Face-FCC624?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pinecone-1E90FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG (Retrieval Augmented Generation)-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LANGCHAIN-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OPENAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/HUGGING FACE-FCC624?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/PINECONE-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG (RETRIEVAL AUGMENTED GENERATION)-333333?style=for-the-badge" />
 
-  <!-- IDEs & Platforms -->
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
-  <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black" />
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/PYCHARM-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/ANDROID STUDIO-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/GOOGLE COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
+  <img src="https://img.shields.io/badge/NOTEPAD++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black" />
+  <img src="https://img.shields.io/badge/FIREBASE-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
 </p>
 
 ---
 
-### 💻 Programming Languages & Tools
+### 💻 PROGRAMMING LANGUAGES & TOOLS
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=sqlite&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -58,29 +56,29 @@
 
 ---
 
-### 📚 Libraries & Frameworks
+### 📚 LIBRARIES & FRAMEWORKS
 
 <p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=black" />
-  <img src="https://img.shields.io/badge/scikit learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCIPY-8CAAE6?style=for-the-badge&logo=scipy&logoColor=black" />
+  <img src="https://img.shields.io/badge/SCIKIT LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
 ---
 
-### 🔭 Areas of Interest
+### 🔭 AREAS OF INTEREST
 
 <p>
-  <img src="https://img.shields.io/badge/Astronomy-B80CEF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stargazing-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ASTRONOMY-B80CEF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STARGAZING-00599C?style=for-the-badge" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GITHUB STATS
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=KarthikDarvesh&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
