@@ -37,7 +37,6 @@
   <img src="https://img.shields.io/badge/GOOGLE COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
   <img src="https://img.shields.io/badge/NOTEPAD++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black" />
   <img src="https://img.shields.io/badge/FIREBASE-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
 </p>
 
 ---
