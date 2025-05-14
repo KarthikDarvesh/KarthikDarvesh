@@ -28,15 +28,36 @@
 
 ### 🔧 AI TOOLS & PLATFORMS
 
-### 🔧 TOOLS & PLATFORMS
+---
+
+#### 🖥️ DEVELOPMENT ENVIRONMENTS
 
 <p>
   <img src="https://img.shields.io/badge/VS CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/GOOGLE COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
-  <img src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/PYCHARM-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/GOOGLE COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
   <img src="https://img.shields.io/badge/ANDROID STUDIO-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+</p>
+
+---
+
+#### ⚙️ AUTOMATION & VISUAL WORKFLOW BUILDERS
+
+<p>
+  <img src="https://img.shields.io/badge/N8N AUTOMATION-2086D7?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/DIFY.AI-FF8800?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/MAGE.AI-000000?style=for-the-badge&logoColor=white" />
+</p>
+
+---
+
+#### 🛠️ BACKEND & DEPLOYMENT
+
+<p>
   <img src="https://img.shields.io/badge/FIREBASE-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
