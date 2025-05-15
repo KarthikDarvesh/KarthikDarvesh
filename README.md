@@ -41,7 +41,7 @@
   <p>
     <img src="https://img.shields.io/badge/N8N AUTOMATION-EF3D55?style=for-the-badge&logo=n8n&logoColor=white" />
     <img src="https://img.shields.io/badge/DIFY.AI-1E90FF?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/MAGE.AI-000000?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/MAGE.AI-3DDC84?style=for-the-badge&logoColor=white" />
   </p>
 
 - 🛠️ BACKEND & DEPLOYMENT  
