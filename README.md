@@ -39,7 +39,7 @@
 
 - ⚙️ AUTOMATION & VISUAL WORKFLOW BUILDERS  
   <p>
-    <img src="https://img.shields.io/badge/N8N AUTOMATION-2086D7?style=for-the-badge&logo=n8n&logoColor=white" />
+    <img src="https://img.shields.io/badge/N8N AUTOMATION-EF3D55?style=for-the-badge&logo=n8n&logoColor=white" />
     <img src="https://img.shields.io/badge/DIFY.AI-FF8800?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/MAGE.AI-000000?style=for-the-badge&logoColor=white" />
   </p>
