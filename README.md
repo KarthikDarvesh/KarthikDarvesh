@@ -62,6 +62,10 @@
     <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/SCIPY-8CAAE6?style=for-the-badge&logo=scipy&logoColor=black" />
     <img src="https://img.shields.io/badge/SCIKIT LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+    <img src="https://img.shields.io/badge/XGBOOST-AA2D2D?style=for-the-badge&logo=xgboost&logoColor=white" />
+    <img src="https://img.shields.io/badge/LIGHTGBM-00C100?style=for-the-badge&logo=lightgbm&logoColor=white" />
+    <img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+    <img src="https://img.shields.io/badge/SEABORN-49BEB7?style=for-the-badge&logo=seaborn&logoColor=white" />
   </p>
 
 - 🧠 NLP & LANGUAGE PROCESSING LIBRARIES  
@@ -74,6 +78,7 @@
   <p>
     <img src="https://img.shields.io/badge/HUGGING FACE-FCC624?style=for-the-badge&logo=huggingface&logoColor=black" />
     <img src="https://img.shields.io/badge/TRANSFORMERS-EF3D55?style=for-the-badge&logo=huggingface&logoColor=white" />
+    <img src="https://img.shields.io/badge/SENTENCE TRANSFORMERS-0055A4?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/LANGCHAIN-000000?style=for-the-badge" />
     <img src="https://img.shields.io/badge/OPENAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
     <img src="https://img.shields.io/badge/PINECONE-1E90FF?style=for-the-badge" />
@@ -95,26 +100,28 @@
 
 ---
 
-### 💻 PROGRAMMING LANGUAGES & TOOLS
+### 💻 PROGRAMMING LANGUAGES
 
 <p>
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=sqlite&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C Programmimg-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
+
 
 ---
 
-### 🔭 AREAS OF INTEREST
+### 🔭🤖 AREAS OF INTEREST
 
 <p>
-  <img src="https://img.shields.io/badge/ASTRONOMY-B80CEF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/STARGAZING-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ARTIFICIAL INTELLIGENCE-FF4C4C?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASTRONOMY-B80CEF?style=for-the-badge&logo=star&logoColor=white" />
+  <img src="https://img.shields.io/badge/STARGAZING-00599C?style=for-the-badge&logo=spacex&logoColor=white" />
 </p>
+
 
 ---
 
