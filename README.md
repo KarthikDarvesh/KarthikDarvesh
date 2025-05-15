@@ -26,7 +26,7 @@
 
 ---
 
-### 🔧 AI TOOLS & PLATFORMS
+### 🤖 AI TOOLS & PLATFORMS
 
 - 🖥️ DEVELOPMENT ENVIRONMENTS  
   <p>
