@@ -40,6 +40,7 @@
     <img src="https://img.shields.io/badge/N8N AUTOMATION-EF3D55?style=for-the-badge&logo=n8n&logoColor=white" />
     <img src="https://img.shields.io/badge/DIFY.AI-1E90FF?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/MAGE.AI-10A37F?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/ACTIVEPIECES-FF6B00?style=for-the-badge&logoColor=white" />
   </p>
 
 - 🛠️ BACKEND & DEPLOYMENT  
@@ -47,6 +48,7 @@
     <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
     <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/FIREBASE-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+    <img src="https://img.shields.io/badge/POSTGRESQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   </p>
 ---
 
