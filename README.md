@@ -5,7 +5,9 @@
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=karthikdarevsh@gmail.com&su=Hello%20Karthik&body=Hi%20Karthik%2C%0A%0AJust%20reaching%20out!" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=karthikdarevsh@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
 ---
