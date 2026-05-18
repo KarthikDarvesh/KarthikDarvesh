@@ -32,7 +32,6 @@
     <img src="https://img.shields.io/badge/PYCHARM-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
     <img src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
     <img src="https://img.shields.io/badge/GOOGLE COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
-    <img src="https://img.shields.io/badge/ANDROID STUDIO-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   </p>
 
 - ⚙️ AUTOMATION & VISUAL WORKFLOW BUILDERS  
@@ -41,6 +40,7 @@
     <img src="https://img.shields.io/badge/DIFY.AI-1E90FF?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/MAGE.AI-10A37F?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/ACTIVEPIECES-FF6B00?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/ZAPIER-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" />
   </p>
 
 - 🛠️ BACKEND & DEPLOYMENT  
@@ -107,7 +107,6 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=sqlite&logoColor=black" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C Programmimg-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
