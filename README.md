@@ -21,7 +21,7 @@
 - 🗣️ NLP SYSTEMS INCLUDING QUESTION ANSWERING, SUMMARIZATION, AND CHATBOTS  
 - ⚙️ AUTOMATION WORKFLOWS USING N8N, DIFY.AI, AND MAGE.AI
 
-
+### I can create automation for everything — from turning business ideas into working workflows to automating repetitive tasks, reducing manual effort.
 ---
 
 ### 🤖 AI TOOLS & PLATFORMS
